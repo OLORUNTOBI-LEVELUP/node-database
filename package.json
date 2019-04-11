@@ -12,6 +12,7 @@
   "author": "oloruntobi",
   "license": "ISC",
   "dependencies": {
+    "bookshelf": "^0.14.2",
     "knex": "^0.16.3",
     "mysql": "^2.16.0"
   }
